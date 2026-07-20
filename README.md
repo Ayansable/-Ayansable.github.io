@@ -59,6 +59,6 @@ Below you will find professional documentation for my core security projects, to
 ---
 
 ## 🎓 Education & Credentials
-* **Bachelor of Technology (B.Tech) / Degree in Progress** | Cybersecurity & Information Technology Focus
-* **Google Cybersecurity Professional Certificate** | In Progress / Coursera Candidate
-* **TryHackMe Learning Path** | Pre-Security & SOC Analyst Level 1
+* **Bachelor of sciencs ( conputer science ) /  Master Degree in Progress** | Cybersecurity & Information Technology Focus
+*  Cybersecurity Professional Certificate** | In Progress / 
+* 
